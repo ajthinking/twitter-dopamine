@@ -12,3 +12,8 @@
 .ProfileNav-item--followers > .ProfileNav-stat > .ProfileNav-value {
     visibility: hidden !important;    
 }
+
+/* Hide followers again */
+[data-element-term="follower_stats"] {
+    visibility: hidden !important;
+}
