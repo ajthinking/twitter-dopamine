@@ -1,0 +1,14 @@
+/* Hide likes */
+.js-actionFavorite > .ProfileTweet-actionCount {
+    visibility: hidden !important;
+}
+
+/* Hide retweets */
+.js-actionRetweet > .ProfileTweet-actionCount {
+    visibility: hidden !important;
+}
+
+/* Hide followers */
+.ProfileNav-item--followers > .ProfileNav-stat > .ProfileNav-value {
+    visibility: hidden !important;    
+}
