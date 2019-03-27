@@ -17,3 +17,18 @@
 [data-element-term="follower_stats"] {
     visibility: hidden !important;
 }
+
+/* Hide notifications like entry */
+.js-activity-favorite {
+    visibility: hidden !important;    
+}
+
+/* Hide notifications retweet entry */
+.js-activity-retweet {
+    visibility: hidden !important;    
+}
+
+/* Hide notifications follow entry */
+.js-activity-follow {
+    visibility: hidden !important;    
+}
