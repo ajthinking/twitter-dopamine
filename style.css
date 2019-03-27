@@ -20,15 +20,15 @@
 
 /* Hide notifications like entry */
 .js-activity-favorite {
-    visibility: hidden !important;    
+    display: none !important;    
 }
 
 /* Hide notifications retweet entry */
 .js-activity-retweet {
-    visibility: hidden !important;    
+    display: none !important;    
 }
 
 /* Hide notifications follow entry */
 .js-activity-follow {
-    visibility: hidden !important;    
+    display: none !important;    
 }

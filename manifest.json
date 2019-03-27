@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Twitter Dopamine",
     "description": "Detoxify twitter. Hide Likes, Retweet, Followers count and notifications.",
-    "version": "0.03",
+    "version": "0.05",
     "content_scripts": [
         {
             "matches": [
